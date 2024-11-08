@@ -10,8 +10,10 @@ Time spent: 6 hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] Users are see a screen with three labels and a button
-- [ ] Tapping the button changes the screen color to a random color
+- [X] Users are see a screen with three labels and a button
+- [X] Tapping the button changes the screen color to a random color
+
+https://github.com/user-attachments/assets/f24e3e49-3e94-4d33-9f38-8ad4fec8d08f
 
 ## App Brainstorming 
 
