@@ -14,7 +14,7 @@ The following **required** functionality is completed:
 - [X] Tapping the button changes the screen color to a random color
 
 
-![Screen Recording 2024-11-07 at 8-VEED](https://github.com/user-attachments/assets/1f9fc8b0-00e2-49b6-9fb1-f35435b4165d)
+https://github.com/user-attachments/assets/6ffa543d-380c-401b-9edf-7095baad6179
 
 
 
