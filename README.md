@@ -16,29 +16,29 @@ The following **required** functionality is completed:
 ## App Brainstorming 
 
 1. Notion
-Customizable templates: Allows you to build workspaces, to-do lists, and databases from scratch or use pre-designed templates, making it highly versatile.
-Database linking: Lets you connect different pages and databases, which makes organizing information intuitive and interconnected.
-Collaborative editing: The real-time collaboration feature is smooth, making it great for team projects and brainstorming sessions.
+- **Customizable templates**: Allows you to build workspaces, to-do lists, and databases from scratch or use pre-designed templates, making it highly versatile.
+- **Database linking**: Lets you connect different pages and databases, which makes organizing information intuitive and interconnected.
+- **Collaborative editing**: The real-time collaboration feature is smooth, making it great for team projects and brainstorming sessions.
 
-2. Spotify
-Personalized playlists: "Discover Weekly" and "Release Radar" tailor music recommendations to your tastes, which always feels fresh and personalized.
-Cross-device sync: I love being able to seamlessly switch between devices (phone, desktop, smart speaker) without losing my place in the music.
-Podcasts & Music in one place: The integration of podcasts alongside music makes it a one-stop shop for entertainment.
+**2. Spotify**
+- **Personalized playlists**: "Discover Weekly" and "Release Radar" tailor music recommendations to your tastes, which always feels fresh and personalized.
+- **Cross-device sync**: I love being able to seamlessly switch between devices (phone, desktop, smart speaker) without losing my place in the music.
+- **Podcasts & Music in one place**: The integration of podcasts alongside music makes it a one-stop shop for entertainment.
 
-3. Trello
-Drag-and-drop task management: Organizing tasks with ease by simply dragging them across different boards is incredibly efficient and visually intuitive.
-Power-ups: Integrations like Google Drive, Slack, and calendar views add extra layers of functionality for workflow management.
-Collaboration: Real-time updates and comments on tasks make it a perfect tool for teams to stay synchronized and productive.
+**3. Trello**
+- **Drag-and-drop task management**: Organizing tasks with ease by simply dragging them across different boards is incredibly efficient and -visually intuitive.
+- **Power-ups**: Integrations like Google Drive, Slack, and calendar views add extra layers of functionality for workflow management.
+- **Collaboration**: Real-time updates and comments on tasks make it a perfect tool for teams to stay synchronized and productive.
 
-4. Google Maps
-Real-time traffic updates: Accurate, live data about traffic conditions and route options helps save time and avoid delays.
-Offline maps: Ability to download areas for offline use is a game-changer when traveling without cellular service.
-Explore feature: The recommendations for nearby places to eat, visit, or shop are highly personalized and often spot on.
+**4. Google Maps**
+- **Real-time traffic updates**: Accurate, live data about traffic conditions and route options helps save time and avoid delays.
+- **Offline maps**: Ability to download areas for offline use is a game-changer when traveling without cellular service.
+- **Explore feature**: The recommendations for nearby places to eat, visit, or shop are highly personalized and often spot on.
 
-5. Evernote
-Cross-device syncing: Syncing notes across devices (phone, tablet, and desktop) is flawless, making it easy to access notes anywhere.
-Tagging & search: The search functionality is incredibly powerful, allowing you to find notes using tags or even text within images.
-Web clipping: The ability to clip articles or snippets from the web into your notes is a fantastic way to save and organize important info for later.
+**5. Evernote**
+- **Cross-device syncing**: Syncing notes across devices (phone, tablet, and desktop) is flawless, making it easy to access notes anywhere.
+- **Tagging & search**: The search functionality is incredibly powerful, allowing you to find notes using tags or even text within images.
+- **Web clipping**: The ability to clip articles or snippets from the web into your notes is a fantastic way to save and organize important info for later.
 
 
 ## Notes
