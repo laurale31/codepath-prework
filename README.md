@@ -43,8 +43,8 @@ The following **required** functionality is completed:
 
 ## Notes
 
-Fix bugs when the IBAction is disconnected with the UIButton
-Navigate through Xcode IDE
+- Fix bugs when the IBAction is disconnected with the UIButton
+- Navigate through Xcode IDE
 
 ## License
 
