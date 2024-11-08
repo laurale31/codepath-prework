@@ -15,7 +15,7 @@ The following **required** functionality is completed:
 
 ## App Brainstorming 
 
-1. Notion
+**1. Notion**
 - **Customizable templates**: Allows you to build workspaces, to-do lists, and databases from scratch or use pre-designed templates, making it highly versatile.
 - **Database linking**: Lets you connect different pages and databases, which makes organizing information intuitive and interconnected.
 - **Collaborative editing**: The real-time collaboration feature is smooth, making it great for team projects and brainstorming sessions.
