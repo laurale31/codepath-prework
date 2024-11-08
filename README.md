@@ -45,6 +45,33 @@ https://github.com/user-attachments/assets/6ffa543d-380c-401b-9edf-7095baad6179
 - **Tagging & search**: The search functionality is incredibly powerful, allowing you to find notes using tags or even text within images.
 - **Web clipping**: The ability to clip articles or snippets from the web into your notes is a fantastic way to save and organize important info for later.
 
+## Ideas about a new app
+**StreamSphere** - a streaming platform
+
+### 1. **User Authentication & Profiles**
+- **Sign-up/Login:** Create accounts with email or social media.
+- **Profiles:** Multiple profiles per account, with personalized recommendations and settings.
+- **Parental Controls:** Set age restrictions for kids' profiles.
+
+### 2. **Content Library & Categories**
+- **Search:** Advanced filters by genre, language, actors, etc.
+- **Personalized Recommendations:** AI-driven suggestions based on preferences and history.
+- **Curated Lists:** Featured collections like "Top 10," "New Releases," etc.
+- **Categories & Tags:** Organize by genre, mood, language, etc.
+
+### 3. **Video Playback Features**
+- **Adaptive Quality:** Auto-adjust video quality based on connection.
+- **Offline Viewing:** Download content for offline watching.
+- **Subtitles/Audio:** Multiple languages, subtitles, and audio options.
+- **Resume Playback:** Remember where you left off across devices.
+
+### 4. **User Interaction & Social Features**
+- **Ratings & Reviews:** Rate and review shows or movies.
+- **Watchlists:** Save and organize shows to watch later.
+- **Watch Parties:** Synchronized viewing with chat for social interaction.
+- **Sharing:** Share recommendations and viewing status on social media.
+- **Notifications:** Alerts for new releases and recommendations.
+
 
 ## Notes
 
